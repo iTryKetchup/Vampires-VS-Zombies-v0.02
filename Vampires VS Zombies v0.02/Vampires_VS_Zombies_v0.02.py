@@ -64,5 +64,4 @@ def start_game():
         print(f"Current Room: {current_room}")
         
 if __name__ == "__main__":
-    show_instructions()
-         
+    show_instructions()         
