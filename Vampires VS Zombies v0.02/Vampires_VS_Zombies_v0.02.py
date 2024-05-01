@@ -19,9 +19,9 @@ def show_instructions():
             print("did you type that correctly? Please type 'start' to begin or 'exit' to quit.")
 
 def start_game():
-    print("Enter Text")
-    print("Enter Text")
-    print("Enter Text")
+    print("Story Line 1")
+    print("Story Line 2")
+    print("Story Line 3")
     
     rooms = {
         'Rubble': {'east': 'Cliffs', 'west': 'Lake', 'south': 'Desert', 'north': 'Burning City'},
