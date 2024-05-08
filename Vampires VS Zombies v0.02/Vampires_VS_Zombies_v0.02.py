@@ -13,7 +13,7 @@ def show_instructions():
             start_game()
             break
         elif command == 'exit':
-            print("Too Hard? We get it! Goodbye!")
+            print("Thank you for playing! Goodbye!")
             break
         else:
             print("did you type that correctly? Please type 'start' to begin or 'exit' to quit.")
